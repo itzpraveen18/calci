@@ -16,14 +16,5 @@
     </dependency>
   </dependencies>
 
-<distributionManagement>
-    <repository>
-      <id>Releasecalci</id>
-      <url>http://localhost:8089/nexus/content/repositories/Releasecalci/</url>
-    </repository>
-    <snapshotRepository>
-      <id>Snapshotcalci</id>
-      <url>http://localhost:8089/nexus/content/repositories/Snapshotcalci/</url>
-    </snapshotRepository>
-  </distributionManagement>
+
 </project>
