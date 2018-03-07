@@ -4,7 +4,7 @@
   <groupId>com.mycompany</groupId>
   <artifactId>MyCalculator</artifactId>
   <packaging>jar</packaging>
-  <version>0.86</version>
+  <version>0.87</version>
   <name>MyCalculator</name>
   
   <dependencies>
